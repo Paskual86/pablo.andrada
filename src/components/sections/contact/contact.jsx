@@ -27,7 +27,7 @@ export const ContactSection = () => {
           </a>
 
           <a
-            href='tel:+34663415546'
+            href='tel:+34663415'
             className='bg-white/5 backdrop-blur-sm rounded-lg p-6 border border-white/10 hover:border-purple-500/50 transition-colors group'
           >
             <Phone
