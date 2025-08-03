@@ -35,7 +35,7 @@ export const ContactSection = () => {
               className='text-purple-400 mx-auto mb-4 group-hover:scale-110 transition-transform'
             />
             <h3 className='text-xl font-bold text-white mb-2'>Phone</h3>
-            <p className='text-gray-300'>+34 663 41 55 46</p>
+            <p className='text-gray-300'>+34 XXX XX XX XX</p>
           </a>
         </div>
 

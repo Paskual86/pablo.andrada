@@ -47,7 +47,7 @@ export const AboutSection = () => {
             <div className='flex gap-4'>
               <div className='flex items-center gap-2 text-purple-400'>
                 <Phone size={20} />
-                <span>+34 663 415 XXX</span>
+                <span>+34 XXX XX XX XX</span>
               </div>
             </div>
           </div>
