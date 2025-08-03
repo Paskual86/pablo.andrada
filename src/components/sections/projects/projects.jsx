@@ -63,11 +63,11 @@ export const Projects = () => {
         links: [
           {
             name: 'C# API Projects',
-            url: 'https://github.com/yourusername/csharp-apis',
+            url: 'https://github.com/Paskual86/monos-ia',
           },
           {
             name: 'Microservices Demo',
-            url: 'https://github.com/yourusername/microservices-demo',
+            url: 'https://github.com/Paskual86/monos-ia',
           },
         ],
       },
@@ -80,11 +80,19 @@ export const Projects = () => {
         links: [
           {
             name: 'Go APIs',
-            url: 'https://github.com/yourusername/golang-services',
+            url: 'https://github.com/Paskual86/travel-agency-backend-go',
           },
           {
             name: 'Go Microservices',
-            url: 'https://github.com/yourusername/go-microservices',
+            url: 'https://github.com/Paskual86/travel-agency-backend-go',
+          },
+          {
+            name: 'Go Algorithms',
+            url: 'https://github.com/Paskual86/go-algorithms-and-data-structure',
+          },
+          {
+            name: 'Hacker Rank Algorithms',
+            url: 'https://github.com/Paskual86/hackerrank-go-30DaysOfCoding',
           },
         ],
       },
@@ -106,7 +114,7 @@ export const Projects = () => {
         links: [
           {
             name: 'Auth Examples',
-            url: 'https://github.com/yourusername/authentication-examples',
+            url: 'https://github.com/Paskual86/monos-ia',
           },
         ],
       },
@@ -146,8 +154,8 @@ export const Projects = () => {
         icon: '🌐',
         links: [
           {
-            name: 'React Portfolio',
-            url: 'https://github.com/yourusername/react-portfolio',
+            name: 'React Exercises',
+            url: 'https://github.com/Paskual86/react-the-complete-guide',
           },
           {
             name: 'Next.js Apps',
@@ -192,13 +200,13 @@ export const Projects = () => {
         icon: '📱',
         links: [
           {
-            name: 'Xamarin Projects',
-            url: 'https://github.com/yourusername/xamarin-apps',
+            name: 'Playing with Xamarin',
+            url: 'https://github.com/Paskual86/playing-with-xamarin',
           },
         ],
       },
       {
-        title: 'Mobile API Integration',
+        title: 'Safety Mobile App',
         description:
           'Mobile applications with seamless API integration, offline capabilities, and real-time synchronization.',
         technologies: [
@@ -211,7 +219,7 @@ export const Projects = () => {
         links: [
           {
             name: 'Mobile API Examples',
-            url: 'https://github.com/yourusername/mobile-api-integration',
+            url: 'https://github.com/Paskual86/safety',
           },
         ],
       },
@@ -233,7 +241,7 @@ export const Projects = () => {
         links: [
           {
             name: 'Desktop Apps',
-            url: 'https://github.com/yourusername/windows-desktop-apps',
+            url: 'https://github.com/Paskual86/friend-organizer',
           },
         ],
       },
