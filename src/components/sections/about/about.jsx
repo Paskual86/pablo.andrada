@@ -41,13 +41,13 @@ export const AboutSection = () => {
             <div className='flex gap-4 pt-4'>
               <div className='flex items-center gap-2 text-purple-400'>
                 <Mail size={20} />
-                <span>tu-email@ejemplo.com</span>
+                <span>pablosebastian.andrada@gmail.com</span>
               </div>
             </div>
             <div className='flex gap-4'>
               <div className='flex items-center gap-2 text-purple-400'>
                 <Phone size={20} />
-                <span>+12 345 67 890</span>
+                <span>+34 663 415 XXX</span>
               </div>
             </div>
           </div>
