@@ -7,6 +7,7 @@ import { SkillsSection } from '../skills/skills';
 import { EducationSection } from '../education/education';
 import { ContactSection } from '../contact/contact';
 import { Footer } from '../footer/footer';
+import { Projects } from '../projects/projects';
 
 export const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('home');
@@ -122,6 +123,7 @@ export const Portfolio = () => {
       <ExperienceSection></ExperienceSection>
       <SkillsSection></SkillsSection>
       <EducationSection></EducationSection>
+      <Projects></Projects>
       <ContactSection></ContactSection>
       <Footer></Footer>
     </div>
