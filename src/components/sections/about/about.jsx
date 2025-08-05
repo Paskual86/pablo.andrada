@@ -10,11 +10,12 @@ export const AboutSection = () => {
         </h2>
         <div className='grid md:grid-cols-2 gap-12 items-center'>
           <div>
-            <div className='w-full h-80 bg-gradient-to-r from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center border border-purple-500/30'>
+            <div className='w-full h-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center border border-purple-500/30'>
               {/*<User size={120} className='text-purple-400' />*/}
               <img
-                src='/pablo.andrada/Images/AboutMe1.jpg'
+                src='/pablo.andrada/Images/AboutMe3.jpg'
                 alt='About Me'
+                className='object-contain h-full max-w-full rounded-lg'
               ></img>
             </div>
           </div>
